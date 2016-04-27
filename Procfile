@@ -1,0 +1,1 @@
+web: gunicorn evenetx.wsgi --log-file -
